@@ -19,6 +19,7 @@ Contents
 .. toctree::
 
    usage
+   phys <phys_set_up.md>
    api
 
 Lumache has its documentation hosted on Read the Docs. 
